@@ -62,3 +62,9 @@ Boas praticas de conveção na comunidade python. é fazer o ambiente virtual ch
 Verificar também o flask mashmellow
 
 
+detalhe interessante no flask - as função retornam os resultados em tuplas.
+
+
+biblioteca SQLALchemy é uma biblioteca muito boa para ajudar com SQL.
+
+
