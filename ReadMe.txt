@@ -1,7 +1,9 @@
 Aula compartilha de API RestFull.
 
 dontpad - infinitybh-restapi
-baixar insomnia
+baixar insomnia - é um cliente de requisição.
+
+no browser - apertar F12 para abrir a ferramenta do desenvolvedor.
 
 Projeto do davi - to-do-app-hwx0.onrender.com/home
 
@@ -24,4 +26,12 @@ Protocolo HTTP
 
 O que é uma API REST:
 Rest - representational state transfer
-Rest é uma arquitetura que dita um conjunto de regras e boas praticas que surgem
+Rest é uma arquitetura que dita um conjunto de regras e boas praticas que surjerem como 
+um serviço web deve disponibilizar seus endpoints e os estados das entidades que ela tiver trabalhando.
+
+metodos http:
+GET - para fazer uma consulta
+POST - para inserir um novo dado
+PUT - Para alterar um dado existente, passando todas as informações do que será alterado
+DELETE - Para excluir um dado existente
+PATCH - Para alterar um dado existente, mas passando apenas o que será alterado.
