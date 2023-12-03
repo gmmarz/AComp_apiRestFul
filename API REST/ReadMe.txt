@@ -57,5 +57,6 @@ para ativar o ambiente
 .(nome do ambiente)/Scripts/activate
 exemplo:
 .venv/Scripts/activate 
+Boas praticas de conveção na comunidade python. é fazer o ambiente virtual chamado .venv
 
 
